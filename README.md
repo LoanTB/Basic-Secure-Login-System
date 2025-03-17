@@ -16,19 +16,6 @@ A basic secure login and registration system implemented in Python using XOR-bas
 - **Hashlib Module** (built-in)
 - **Time Module** (built-in)
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/Secure-Login-System.git
-   cd Secure-Login-System
-   ```
-
-2. Run the script:
-   ```bash
-   python main.py
-   ```
-
 ## Project Structure
 
 - **`main.py`**: The main script containing the login and registration logic.
